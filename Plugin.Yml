@@ -1,0 +1,10 @@
+# Plugin.Yml
+Plugin.Yml
+/*
+__PocketMine Plugin__
+name=AntiTnt
+version=1.0
+author=Creeperminer
+class=PluginClass
+apiversion=11,12
+*/
